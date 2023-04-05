@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:zetseat_gu/components/custom_surfix_icon.dart';
-import 'package:zetseat_gu/components/default_button.dart';
-import 'package:zetseat_gu/models/check_box.dart';
-import 'package:zetseat_gu/screens/check_list/check_page.dart';
+import 'package:zetseat_membership/components/custom_surfix_icon.dart';
+import 'package:zetseat_membership/components/default_button.dart';
+import 'package:zetseat_membership/models/check_box.dart';
+import 'package:zetseat_membership/screens/check_list/check_page.dart';
 import '../../../size_config.dart';
 import 'top_rounded_container.dart';
 

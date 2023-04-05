@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:zetseat_gu/components/custom_surfix_icon.dart';
-import 'package:zetseat_gu/components/default_button.dart';
-import 'package:zetseat_gu/components/form_error.dart';
+import 'package:zetseat_membership/components/custom_surfix_icon.dart';
+import 'package:zetseat_membership/components/default_button.dart';
+import 'package:zetseat_membership/components/form_error.dart';
 
-import 'package:zetseat_gu/size_config.dart';
+import 'package:zetseat_membership/size_config.dart';
 
 import '../../../constants.dart';
 

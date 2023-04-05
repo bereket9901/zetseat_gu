@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:zetseat_gu/constants.dart';
-import 'package:zetseat_gu/size_config.dart';
+import 'package:zetseat_membership/constants.dart';
+import 'package:zetseat_membership/size_config.dart';
 
 import 'login_form.dart';
 
@@ -17,7 +17,7 @@ class Body extends StatelessWidget {
           child: Column(
             children: [
               SizedBox(height: SizeConfig.screenHeight!* 0.04), // 4%
-              Text("Generational Unit", style: headingStyle),
+              Text("Membership Class", style: headingStyle),
               const Text(
                 " New Chapter",
                 textAlign: TextAlign.center,

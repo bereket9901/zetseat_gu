@@ -3,9 +3,9 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:zetseat_gu/components/default_button.dart';
-import 'package:zetseat_gu/models/check_box.dart';
-import 'package:zetseat_gu/screens/home/home_page.dart';
+import 'package:zetseat_membership/components/default_button.dart';
+import 'package:zetseat_membership/models/check_box.dart';
+import 'package:zetseat_membership/screens/home/home_page.dart';
 import '../../../constants.dart';
 import 'package:http/http.dart' as http;
 

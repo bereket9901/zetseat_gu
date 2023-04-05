@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:zetseat_gu/screens/announcement/announcement_page.dart';
-import 'package:zetseat_gu/screens/home/home_page.dart';
-import 'package:zetseat_gu/screens/library_s/library_s_page.dart';
-import 'package:zetseat_gu/screens/report_s/report_s_page.dart';
+import 'package:zetseat_membership/screens/announcement/announcement_page.dart';
+import 'package:zetseat_membership/screens/home/home_page.dart';
+import 'package:zetseat_membership/screens/library_s/library_s_page.dart';
+import 'package:zetseat_membership/screens/report_s/report_s_page.dart';
 // import 'package:shop_app/screens/profile/profile_screen.dart';
 
 import '../constants.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:zetseat_gu/components/custom_bottom_nav_bar.dart';
-import 'package:zetseat_gu/screens/lesson/lesson.dart';
+import 'package:zetseat_membership/components/custom_bottom_nav_bar.dart';
+import 'package:zetseat_membership/screens/lesson/lesson.dart';
 
 import '../../constants.dart';
 import '../../enums.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 // import 'package:zetseat_gu/screens/splash/components/body.dart';
-import 'package:zetseat_gu/size_config.dart';
-import 'package:zetseat_gu/screens/splash/components/body.dart';
+import 'package:zetseat_membership/size_config.dart';
+import 'package:zetseat_membership/screens/splash/components/body.dart';
 // import 'package:zetseat_gu/size_config.dart';
 
 class SplashScreen extends StatelessWidget {

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:zetseat_gu/constants.dart';
-import 'package:zetseat_gu/screens/home/home_page.dart';
-import 'package:zetseat_gu/screens/log_in/login_page.dart';
+import 'package:zetseat_membership/constants.dart';
+import 'package:zetseat_membership/screens/home/home_page.dart';
+import 'package:zetseat_membership/screens/log_in/login_page.dart';
 
-import 'package:zetseat_gu/size_config.dart';
+import 'package:zetseat_membership/size_config.dart';
 
 // import '../components/splash_content.dart';
 import '../../../components/default_button.dart';

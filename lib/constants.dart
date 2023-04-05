@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:zetseat_gu/size_config.dart';
+import 'package:zetseat_membership/size_config.dart';
 import 'Color.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 const apiUrl="http://206.81.29.227";

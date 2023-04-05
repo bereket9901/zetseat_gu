@@ -1,8 +1,8 @@
 // @dart=2.9
 import 'package:flutter/material.dart';
-import 'package:zetseat_gu/routes.dart';
-import 'package:zetseat_gu/screens/splash/splash.dart';
-import 'package:zetseat_gu/theme.dart';
+import 'package:zetseat_membership/routes.dart';
+import 'package:zetseat_membership/screens/splash/splash.dart';
+import 'package:zetseat_membership/theme.dart';
 import 'dart:async';
 
 void main() {
@@ -35,7 +35,7 @@ class _MyAppState extends State {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white,
+      backgroundColor: const Color(0xFFFFFEFF),
       body: Container(
         constraints: BoxConstraints.expand(),
         height: MediaQuery.of(context).size.height,
@@ -46,8 +46,8 @@ class _MyAppState extends State {
               alignment: Alignment.center,
               // height: double.infinity,
               width: double.infinity,
-              child: Image.asset("assets/images/Generation-unit.gif",
-                  gaplessPlayback: true, fit: BoxFit.contain),
+              child: Image.asset("assets/images/zetseat.gif",
+                  gaplessPlayback: true, fit: BoxFit.fill),
             ),
             Container(
               margin: EdgeInsets.only(bottom: 10),

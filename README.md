@@ -1,2 +1,2 @@
-# zetseat_gu
+# zetseat_membership
  

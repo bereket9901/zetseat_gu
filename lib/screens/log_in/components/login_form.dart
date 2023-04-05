@@ -3,12 +3,12 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:get/get_connect/http/src/utils/utils.dart';
-import 'package:zetseat_gu/components/custom_surfix_icon.dart';
-import 'package:zetseat_gu/components/form_error.dart';
+import 'package:zetseat_membership/components/custom_surfix_icon.dart';
+import 'package:zetseat_membership/components/form_error.dart';
 // import 'package:zetseat_gu/screens/forgot_password/forgot_password_screen.dart';
-import 'package:zetseat_gu/screens/home/home_page.dart';
-import 'package:zetseat_gu/screens/members_detail/members_details.dart';
-import 'package:zetseat_gu/screens/members_list/members_list.dart';
+import 'package:zetseat_membership/screens/home/home_page.dart';
+import 'package:zetseat_membership/screens/members_detail/members_details.dart';
+import 'package:zetseat_membership/screens/members_list/members_list.dart';
 
 import '../../../components/default_button.dart';
 import '../../../constants.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:zetseat_gu/Color.dart';
+import 'package:zetseat_membership/Color.dart';
 import '../../constants.dart';
 import 'components/body.dart';
 

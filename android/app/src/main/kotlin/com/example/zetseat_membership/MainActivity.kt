@@ -1,4 +1,4 @@
-package com.example.zetseat_gu
+package com.example.zetseat_membership
 
 import io.flutter.embedding.android.FlutterActivity
 
